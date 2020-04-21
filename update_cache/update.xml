@@ -1,0 +1,190 @@
+<UpdateableFiles type="tree">
+    <MeGUI type="tree">
+        <core type="file" needsrestart="true" net="4.0" build="32">
+            <filepath date="2019-10-04" version="2913">megui-core-2913-32.7z</filepath>
+        </core>
+        <core type="file" needsrestart="true" net="4.0" build="64">
+            <filepath date="2019-10-04" version="2913">megui-core-2913-64.7z</filepath>
+        </core>
+        <data type="file" requiredbuild="2444" os="">
+            <filepath date="2013-12-30" version="2443">megui-data_2443.zip</filepath>
+        </data>
+        <libs type="file" needsrestart="true" build="32">
+            <filepath date="2018-05-06" version="2847">megui-libs-2847-32.7z</filepath>
+        </libs>
+        <libs type="file" needsrestart="true" requiredbuild="2611" build="64">
+            <filepath date="2018-05-06" version="2847">megui-libs-2847-64.7z</filepath>
+        </libs>
+        <updater type="file" net="4.0">
+            <filepath date="2016-12-08" version="2680">megui-update_2680.7z</filepath>
+        </updater>
+        <mediainfo type="file" needsrestart="true" build="32">
+            <filepath date="2018-05-10" version="18.05">mediainfo-18.05-32.7z</filepath>
+        </mediainfo>
+        <mediainfo type="file" needsrestart="true" build="64">
+            <filepath date="2018-05-10" version="18.05">mediainfo-18.05-64.7z</filepath>
+        </mediainfo>
+    </MeGUI>
+    <ProgramFile type="tree">
+        <avimux_gui type="file">
+            <filepath date="2010-02-18" version="1.17.8.3">avi-mux_gui-1.17.8.3.7z</filepath>
+        </avimux_gui>
+        <avisynth_plugin type="file" requiredbuild="2690" build="32" maxos="5.2">
+            <filepath date="2018-09-25" version="11">avisynth-plugin-11-XP.7z</filepath>
+        </avisynth_plugin>
+        <avisynth_plugin type="file" requiredbuild="2690" build="32" minos="6.0">
+            <filepath date="2018-09-08" version="11">avisynth-plugin-11-32.7z</filepath>
+        </avisynth_plugin>
+        <avisynth_plugin type="file" requiredbuild="2690" build="64" minos="6.0">
+            <filepath date="2018-09-08" version="11">avisynth-plugin-11-64.7z</filepath>
+        </avisynth_plugin>
+        <avs type="file" needsrestart="true" requiredbuild="2624" build="32">
+            <filepath date="2019-02-17" version="AviSynth+ r2772">avisynthplus-r2772-32.7z</filepath>
+        </avs>
+        <avs type="file" needsrestart="true" requiredbuild="2588" build="64">
+            <filepath date="2019-02-17" version="AviSynth+ r2772">avisynthplus-r2772-64.7z</filepath>
+        </avs>
+        <besplit type="file">
+            <filepath date="2010-12-31" version="0.9b8">besplit-0.9b8.7z</filepath>
+        </besplit>
+        <dgindex type="file" build="32">
+            <filepath date="2016-12-11" version="1.58 (Groucho)">dgmpgdec-158-32.7z</filepath>
+        </dgindex>
+        <dgindex type="file" build="64">
+            <filepath date="2010-04-10" version="1.58">dgmpgdec158_x64.7z</filepath>
+        </dgindex>
+        <dgindexim type="file" requiredbuild="2624" build="32">
+            <filepath date="2017-11-26" version="50 (20171126)">dgindexim-b50-171126-32.7z</filepath>
+        </dgindexim>
+        <dgindexim type="file" requiredbuild="2624" build="64">
+            <filepath date="2017-11-26" version="50 (20171126)">dgindexim-b50-171126-64.7z</filepath>
+        </dgindexim>
+        <dgindexnv type="file" requiredbuild="2897" build="32">
+            <filepath date="2019-02-24" version="2053.169">dgindexnv-2053.169-32.7z</filepath>
+        </dgindexnv>
+        <dgindexnv type="file" requiredbuild="2897" build="64">
+            <filepath date="2019-02-24" version="2053.169">dgindexnv-2053.169-64.7z</filepath>
+        </dgindexnv>
+        <eac3to type="file" requiredbuild="2624">
+            <filepath date="2017-12-09" version="3.34">eac3to-3.34-32.7z</filepath>
+        </eac3to>
+        <fdkaac type="file">
+            <filepath date="2016-08-26" version="0.6.3" url="https://github.com/nu774/fdkaac_autobuild">blank.7z</filepath>
+        </fdkaac>
+        <ffmpeg type="file" requiredbuild="2624" build="32" minos="6.0">
+            <filepath date="2019-08-17" version="4.2">ffmpeg-4.2-32.7z</filepath>
+        </ffmpeg>
+        <ffmpeg type="file" requiredbuild="2624" build="64" minos="6.0">
+            <filepath date="2018-08-17" version="4.2">ffmpeg-4.2-64.7z</filepath>
+        </ffmpeg>
+        <ffmpeg type="file" requiredbuild="2624" build="32" maxos="5.2">
+            <filepath date="2016-03-05" version="3.0.0">ffmpeg-3.0.0-XP.7z</filepath>
+        </ffmpeg>
+        <ffms type="file" requiredbuild="2624" build="32">
+            <filepath date="2017-01-03" version="2.23.1">ffms2-2.23.1-32.7z</filepath>
+        </ffms>
+        <ffms type="file" requiredbuild="2624" build="64">
+            <filepath date="2017-01-03" version="2.23.1">ffms2-2.23.1-64.7z</filepath>
+        </ffms>
+        <flac type="file" requiredbuild="2624" os="32">
+            <filepath date="2017-03-04" version="1.3.2-1">flac-1.3.2-1-32.7z</filepath>
+        </flac>
+        <flac type="file" requiredbuild="2624" os="64">
+            <filepath date="2017-03-04" version="1.3.2-1">flac-1.3.2-1-64.7z</filepath>
+        </flac>
+        <haali type="file" requiredbuild="2670">
+            <filepath date="2018-06-02" version="2859">haali_2859.7z</filepath>
+        </haali>
+        <lame type="file" os="32">
+            <filepath date="2017-12-17" version="3.100">lame-3.100-32.7z</filepath>
+        </lame>
+        <lame type="file" os="64">
+            <filepath date="2017-12-17" version="3.100">lame-3.100-64.7z</filepath>
+        </lame>
+        <lsmash type="file" requiredbuild="2634" build="32" minos="6.0">
+            <filepath date="2017-03-19" version="r929 (20170224)">lsmash-r929-170224-32.7z</filepath>
+        </lsmash>
+        <lsmash type="file" requiredbuild="2634" build="64" minos="6.0">
+            <filepath date="2017-03-19" version="r929 (20170224)">lsmash-r929-170224-64.7z</filepath>
+        </lsmash>
+        <lsmash type="file" requiredbuild="2634" build="32" maxos="5.2">
+            <filepath date="2016-12-06" version="r784 (20150316)">lsmash-r784-150316-XP.7z</filepath>
+        </lsmash>
+        <mkvmerge type="file" requiredbuild="2624" os="32">
+            <filepath date="2020-01-11" version="42.0.0">mkvtoolnix-42.0.0-32.7z</filepath>
+        </mkvmerge>
+        <mkvmerge type="file" requiredbuild="2624" os="64">
+            <filepath date="2020-01-11" version="42.0.0">mkvtoolnix-42.0.0-64.7z</filepath>
+        </mkvmerge>
+        <mp4box type="file" requiredbuild="2624" os="32">
+            <filepath date="2018-09-15" version="0.7.2 rev357 (gpac)">mp4box-0.7.2-rev357-1-32.7z</filepath>
+        </mp4box>
+        <mp4box type="file" requiredbuild="2624" os="64">
+            <filepath date="2018-09-15" version="0.7.2 rev357 (gpac)">mp4box-0.7.2-rev357-1-64.7z</filepath>
+        </mp4box>
+        <neroaacenc type="file">
+            <filepath date="2010-02-18" version="1.5.4.0" url="http://www.nero.com/eng/downloads-nerodigital-nero-aac-codec.php">blank.7z</filepath>
+        </neroaacenc>
+        <oggenc2 type="file" os="32">
+            <filepath date="2011-12-06" version="2.87 aoTuVb6.03">oggenc2.87-aoTuVb6.03.7z</filepath>
+        </oggenc2>
+        <oggenc2 type="file" os="64">
+            <filepath date="2011-12-06" version="2.87 aoTuVb6.03">oggenc2.87-aoTuVb6.03_x64.7z</filepath>
+        </oggenc2>
+        <opus type="file" requiredbuild="2624" os="32">
+            <filepath date="2017-07-24" version="0.1.10.9">opus-0.1.10.9-32.7z</filepath>
+        </opus>
+        <opus type="file" requiredbuild="2624" os="64">
+            <filepath date="2017-07-24" version="0.1.10.9">opus-0.1.10.9-64.7z</filepath>
+        </opus>
+        <pgcdemux type="file">
+            <filepath date="2012-04-15" version="1.2.0.5">pgcdemux_1.2.0.5.7z</filepath>
+        </pgcdemux>
+        <qaac type="file" requiredbuild="2624" os="32">
+            <filepath date="2019-05-19" version="2.68">qaac-2.68-32.7z</filepath>
+        </qaac>
+        <qaac type="file" requiredbuild="2690" os="64">
+            <filepath date="2019-05-19" version="2.68">qaac-2.68-64.7z</filepath>
+        </qaac>
+        <redist type="file" requiredbuild="2837" build="32">
+            <filepath date="2018-04-29" version="3">redist-3-32.7z</filepath>
+        </redist>
+        <redist type="file" requiredbuild="2837" build="64">
+            <filepath date="2018-04-29" version="3">redist-3-64.7z</filepath>
+        </redist>
+        <tsmuxer type="file">
+            <filepath date="2014-01-19" version="2.6.12">tsmuxer-2.6.12.7z</filepath>
+        </tsmuxer>
+        <vsrip type="file">
+            <filepath date="2016-12-01" version="1.0.0.7">vsrip_1007.7z</filepath>
+        </vsrip>
+        <x264 type="file" requiredbuild="2856" os="32">
+            <filepath date="2019-03-15" version="2969">x264-2969-32.7z</filepath>
+        </x264>
+        <x264 type="file" requiredbuild="2856" os="64">
+            <filepath date="2019-03-15" version="2969">x264-2969-64.7z</filepath>
+        </x264>
+        <x265 type="file" requiredbuild="2685" build="32">
+            <filepath date="2019-02-16" version="3.0+4 (LigH)">x265-3.0+4-32.7z</filepath>
+        </x265>
+		<x265 type="file" requiredbuild="2685" build="64">
+            <filepath date="2019-02-16" version="3.0+4 (LigH)">x265-3.0+4-64.7z</filepath>
+        </x265>
+        <xvid_encraw type="file" requiredbuild="2624" build="32">
+            <filepath date="2017-12-17" version="1.3.5">xvid-1.3.5-32.7z</filepath>
+        </xvid_encraw>
+	    <xvid_encraw type="file" requiredbuild="2624" build="64">
+            <filepath date="2017-12-17" version="1.3.5">xvid-1.3.5-64.7z</filepath>
+        </xvid_encraw>
+    </ProgramFile>
+    <Server type="ignore" disable="90">
+        <stable check="60">
+            <url>http://megui.org/auto/stable</url>
+            <url>http://megui.tmebi.de/stable</url>
+        </stable>
+        <test check="6">
+            <url>http://megui.org/auto</url>
+            <url>http://megui.tmebi.de/test</url>
+        </test>
+    </Server>
+</UpdateableFiles>

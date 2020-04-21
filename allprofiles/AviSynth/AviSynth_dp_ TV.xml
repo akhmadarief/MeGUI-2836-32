@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<GenericProfileOfAviSynthSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>TV</Name>
+  <Settings>
+    <Mod16Method>none</Mod16Method>
+    <ModValue>mod8</ModValue>
+    <Resize>true</Resize>
+    <Upsize>false</Upsize>
+    <Template>&lt;input&gt;
+AssumeFPS(24000,1001)
+Spline36Resize(1280,720)
+#Spline36Resize(848,480)
+</Template>
+    <ResizeMethod>Spline32</ResizeMethod>
+    <DenoiseMethod>MinimalNoise</DenoiseMethod>
+    <PreferAnimeDeinterlace>false</PreferAnimeDeinterlace>
+    <Denoise>false</Denoise>
+    <MPEG2Deblock>false</MPEG2Deblock>
+    <ColourCorrect>true</ColourCorrect>
+    <DSS2>false</DSS2>
+    <AcceptableAspectError>1</AcceptableAspectError>
+  </Settings>
+</GenericProfileOfAviSynthSettings>

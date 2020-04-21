@@ -1,0 +1,41 @@
+[Information] Log
+-[Information] Versions
+--[Information] MeGUI: 2836 x86
+--[Information] Update Check: stable update server
+--[Information] System Information
+---[Information] Operating System: Windows Server 2016 Standard 1607 x64 (10.0.0.14393)
+---[Information] .NET Framework: 4.0 (4.0.0.0)
+---[Information] .NET Framework: 4.8 (4.8.03761)
+---[Information] DPI: 100% (96/96)
+---[Information] Monitor 1
+----[Information] Resolution: 1920x1080
+----[Information] Primary Screen: True
+--[Information] Component Information
+---[Information] Haali Media Splitter: 1.13.138.14 (14-04-2013)
+---[Information] Haali DSS2:  (14-04-2013)
+---[Information] ICSharpCode.SharpZipLib: 0.85.5.452 (07-08-2008)
+---[Information] MediaInfo: 18.05.0.0 (08-05-2018)
+---[Information] SevenZipSharp: 0.64.3890.29348 (02-01-2011)
+---[Information] 7z: 9.20 (18-11-2010)
+--[Information] AviSynth Information
+---[Information] AviSynth Wrapper
+----[Information] Version: 1.0.2847.0
+----[Information] Date: 06-05-2018
+----[Information] Interface: 3
+---[Information] AviSynth
+----[Information] File Version: 2.6.0.6
+----[Information] Date: 31-03-2015
+----[Information] Name: Avisynth 2.6
+----[Information] Version: AviSynth 2.60, build:Mar 31 2015 [16:38:54]
+----[Information] AviSynth+: false
+----[Information] MT: false
+----[Information] Status: active
+---[Information] AviSynth portable
+----[Information] File Version: 0.1
+----[Information] Date: 02-07-2018
+----[Information] Name: AviSynth+ 0.1 (r2728, MT, i386)
+----[Information] Status: inactive
+-[Information] Update detection
+--[Information] [4/21/2020 22:18:48] Connected to server: http://megui.org/auto/stable/
+--[Information] [4/21/2020 22:18:48] There is 1 package which can be updated: AviSynth portable
+--[Information] [4/21/2020 22:19:29] There is 1 package which can be updated: AviSynth portable

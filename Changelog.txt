@@ -1,0 +1,35 @@
+Changelog 2828 --> 2836
+
+Features/Changes:
+[File Indexer]         enabled "select audio tracks" for DGIndexIM/NV
+[File Indexer]         show DGIndexIM/NV only if enabled in the settings
+[HD Streams Extractor] removed the custom "+ Options" column by default and added an option to show it
+
+Enhancements/Fixes:
+                       improved High DPI support
+[Audio Encoder]        x64: improved the downmix functions for 7.1/6.1 to 5.1
+
+
+Changelog 2808 --> 2828
+
+Features/Changes:
+                       added High DPI support
+[Jobs]                 added option to pause/resume jobs             
+
+Enhancements/Fixes:
+[File Indexer]         improved handling of Blu-ray playlists
+[OneClick]             added a profile option to set an output file suffix
+[OneClick]             fixed "-" button behaviour if only one track is available (regression of 2808)
+[OneClick]             fixed not updating the output folder path properly (regression of 2807)
+[x264]                 added support for AVC level 6, 6.1 and 6.2 (requires x264 2851+)
+[x264]                 added support for unified 8/10 bit binaries (requires x264 2901+)
+[x265]                 added support for --tune grain
+
+
+Known Problems:
+- Windows Vista and older is not supported
+- Unicode is not supported
+- M2TS bitrate calculator does not calculate correct values as the specifications are unknown
+
+Full changelog: 
+http://sourceforge.net/p/megui/code/HEAD/tree/megui/trunk/Changelog_full.txt?format=raw

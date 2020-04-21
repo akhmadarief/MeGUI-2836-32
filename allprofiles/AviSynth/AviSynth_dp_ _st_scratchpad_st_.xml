@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<GenericProfileOfAviSynthSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>*scratchpad*</Name>
+  <Settings>
+    <Mod16Method>none</Mod16Method>
+    <ModValue>mod8</ModValue>
+    <Resize>true</Resize>
+    <Upsize>false</Upsize>
+    <Template>&lt;input&gt;.AssumeFPS(24000,1001)
+&lt;deinterlace&gt;
+&lt;crop&gt;
+&lt;resize&gt;
+&lt;denoise&gt;
+</Template>
+    <ResizeMethod>Lanczos</ResizeMethod>
+    <DenoiseMethod>MinimalNoise</DenoiseMethod>
+    <PreferAnimeDeinterlace>false</PreferAnimeDeinterlace>
+    <Denoise>false</Denoise>
+    <MPEG2Deblock>false</MPEG2Deblock>
+    <ColourCorrect>true</ColourCorrect>
+    <DSS2>false</DSS2>
+    <AcceptableAspectError>1</AcceptableAspectError>
+  </Settings>
+</GenericProfileOfAviSynthSettings>

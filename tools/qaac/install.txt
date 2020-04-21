@@ -1,0 +1,10 @@
+qaac requires Apple Application Support that is included in iTunes or QuickTime.
+
+1: either install the full package - which can be found here:
+http://www.apple.com/itunes/download/
+
+2: or drag & drop the installer file of iTunes or QuickTime onto the makeportable.cmd in the tools\qaac folder of MeGUI
+so that the required files will be extracted to the QTfiles64 folder. 
+Files in that directory will not be deleted during an update.
+Required for this extraction process is an installed 7-zip!
+

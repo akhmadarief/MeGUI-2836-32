@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfIUpgradeable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <iUpgradeable xsi:type="MeGUIFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2836</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>megui-core-2836-32.7z</Url>
+      <UploadDate>2018-04-21T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2913</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>megui-core-2913-32.7z</Url>
+      <UploadDate>2019-10-04T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>false</AllowUpdate>
+    <Name>core</Name>
+    <DisplayName>MeGUI</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET>4.0</RequiredNET>
+    <NeedsRestartedCopying>true</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="MeGUIFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion>2443</FileVersion>
+      <OSBuild />
+      <Url>megui-data_2443.zip</Url>
+      <UploadDate>2013-12-30T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture />
+      <FileVersion>2443</FileVersion>
+      <OSBuild />
+      <Url>megui-data_2443.zip</Url>
+      <UploadDate>2013-12-30T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>data</Name>
+    <DisplayName>MeGUI Help</DisplayName>
+    <RequiredBuild>2444</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="MeGUIFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2847</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>megui-libs-2847-32.7z</Url>
+      <UploadDate>2018-05-06T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2847</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>megui-libs-2847-32.7z</Url>
+      <UploadDate>2018-05-06T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>libs</Name>
+    <DisplayName>MeGUI Libraries</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>true</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="MeGUIFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2680</FileVersion>
+      <OSBuild />
+      <Url>megui-update_2680.7z</Url>
+      <UploadDate>2016-12-08T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2680</FileVersion>
+      <OSBuild />
+      <Url>megui-update_2680.7z</Url>
+      <UploadDate>2016-12-08T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>updater</Name>
+    <DisplayName>MeGUI Updater</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET>4.0</RequiredNET>
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="MeGUIFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>18.05</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>mediainfo-18.05-32.7z</Url>
+      <UploadDate>2018-05-10T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>18.05</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>mediainfo-18.05-32.7z</Url>
+      <UploadDate>2018-05-10T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>mediainfo</Name>
+    <DisplayName>MediaInfo</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>true</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.17.8.3</FileVersion>
+      <OSBuild />
+      <Url>avi-mux_gui-1.17.8.3.7z</Url>
+      <UploadDate>2010-02-18T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>avimux_gui</Name>
+    <DisplayName>AVI-Mux GUI</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>11</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>avisynth-plugin-11-32.7z</Url>
+      <UploadDate>2018-09-08T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>11</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>avisynth-plugin-11-32.7z</Url>
+      <UploadDate>2018-09-08T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>avisynth_plugin</Name>
+    <DisplayName>AviSynth plugins</DisplayName>
+    <RequiredBuild>2690</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>true</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>AviSynth+ r2728</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>avisynthplus-r2728-32.7z</Url>
+      <UploadDate>2018-07-17T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>AviSynth+ r2772</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>avisynthplus-r2772-32.7z</Url>
+      <UploadDate>2019-02-17T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>avs</Name>
+    <DisplayName>AviSynth portable</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>true</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>0.9b8</FileVersion>
+      <OSBuild />
+      <Url>besplit-0.9b8.7z</Url>
+      <UploadDate>2010-12-31T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>besplit</Name>
+    <DisplayName>Besplit</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.58 (Groucho)</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>dgmpgdec-158-32.7z</Url>
+      <UploadDate>2016-12-11T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>dgindex</Name>
+    <DisplayName>DGIndex</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>50 (20171126)</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>dgindexim-b50-171126-32.7z</Url>
+      <UploadDate>2017-11-26T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>dgindexim</Name>
+    <DisplayName>DGIndexIM</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2053.169</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>dgindexnv-2053.169-32.7z</Url>
+      <UploadDate>2019-02-24T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>dgindexnv</Name>
+    <DisplayName>DGIndexNV</DisplayName>
+    <RequiredBuild>2897</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>3.34</FileVersion>
+      <OSBuild />
+      <Url>eac3to-3.34-32.7z</Url>
+      <UploadDate>2017-12-09T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>3.34</FileVersion>
+      <OSBuild />
+      <Url>eac3to-3.34-32.7z</Url>
+      <UploadDate>2017-12-09T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>eac3to</Name>
+    <DisplayName>eac3to</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>0.6.3</FileVersion>
+      <OSBuild />
+      <Url>blank.7z</Url>
+      <UploadDate>2016-08-26T00:00:00</UploadDate>
+      <Web>https://github.com/nu774/fdkaac_autobuild</Web>
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>fdkaac</Name>
+    <DisplayName>FDK-AAC</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>3.4.2</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>ffmpeg-3.4.2-32.7z</Url>
+      <UploadDate>2018-03-10T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>4.2</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>ffmpeg-4.2-32.7z</Url>
+      <UploadDate>2019-08-17T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>ffmpeg</Name>
+    <DisplayName>FFmpeg</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2.23.1</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>ffms2-2.23.1-32.7z</Url>
+      <UploadDate>2017-01-03T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2.23.1</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>ffms2-2.23.1-32.7z</Url>
+      <UploadDate>2017-01-03T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>ffms</Name>
+    <DisplayName>FFMS</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>1.3.2-1</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>flac-1.3.2-1-64.7z</Url>
+      <UploadDate>2017-03-04T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>1.3.2-1</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>flac-1.3.2-1-64.7z</Url>
+      <UploadDate>2017-03-04T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>flac</Name>
+    <DisplayName>FLAC</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2859</FileVersion>
+      <OSBuild />
+      <Url>haali_2859.7z</Url>
+      <UploadDate>2018-06-02T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2859</FileVersion>
+      <OSBuild />
+      <Url>haali_2859.7z</Url>
+      <UploadDate>2018-06-02T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>haali</Name>
+    <DisplayName>Haali Media Splitter</DisplayName>
+    <RequiredBuild>2670</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>3.100</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>lame-3.100-64.7z</Url>
+      <UploadDate>2017-12-17T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>lame</Name>
+    <DisplayName>LAME</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>r929 (20170224)</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>lsmash-r929-170224-32.7z</Url>
+      <UploadDate>2017-03-19T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>r929 (20170224)</FileVersion>
+      <OSBuild>32min6.0</OSBuild>
+      <Url>lsmash-r929-170224-32.7z</Url>
+      <UploadDate>2017-03-19T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>lsmash</Name>
+    <DisplayName>L-SMASH Works</DisplayName>
+    <RequiredBuild>2634</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>29.0.0</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>mkvtoolnix-29.0.0-64.7z</Url>
+      <UploadDate>2018-12-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>42.0.0</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>mkvtoolnix-42.0.0-64.7z</Url>
+      <UploadDate>2020-01-11T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>mkvmerge</Name>
+    <DisplayName>mkvmerge</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>0.7.2 rev357 (gpac)</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>mp4box-0.7.2-rev357-1-64.7z</Url>
+      <UploadDate>2018-09-15T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>mp4box</Name>
+    <DisplayName>MP4Box</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.5.4.0</FileVersion>
+      <OSBuild />
+      <Url>blank.7z</Url>
+      <UploadDate>2010-02-18T00:00:00</UploadDate>
+      <Web>http://www.nero.com/eng/downloads-nerodigital-nero-aac-codec.php</Web>
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>neroaacenc</Name>
+    <DisplayName>NeroAACEnc</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>2.87 aoTuVb6.03</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>oggenc2.87-aoTuVb6.03_x64.7z</Url>
+      <UploadDate>2011-12-06T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>oggenc2</Name>
+    <DisplayName>OggEnc2</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>0.1.10.9</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>opus-0.1.10.9-64.7z</Url>
+      <UploadDate>2017-07-24T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>0.1.10.9</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>opus-0.1.10.9-64.7z</Url>
+      <UploadDate>2017-07-24T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>opus</Name>
+    <DisplayName>Opus</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.2.0.5</FileVersion>
+      <OSBuild />
+      <Url>pgcdemux_1.2.0.5.7z</Url>
+      <UploadDate>2012-04-15T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>pgcdemux</Name>
+    <DisplayName>PgcDemux</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>2.68</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>qaac-2.68-64.7z</Url>
+      <UploadDate>2019-05-19T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>2.68</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>qaac-2.68-64.7z</Url>
+      <UploadDate>2019-05-19T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>qaac</Name>
+    <DisplayName>QAAC</DisplayName>
+    <RequiredBuild>2690</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>redist-1-32.7z</Url>
+      <UploadDate>2016-12-20T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>3</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>redist-3-32.7z</Url>
+      <UploadDate>2018-04-29T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>false</AllowUpdate>
+    <Name>redist</Name>
+    <DisplayName>Runtime Files</DisplayName>
+    <RequiredBuild>2837</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>2.6.12</FileVersion>
+      <OSBuild />
+      <Url>tsmuxer-2.6.12.7z</Url>
+      <UploadDate>2014-01-19T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>tsmuxer</Name>
+    <DisplayName>tsMuxeR</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.0.0.7</FileVersion>
+      <OSBuild />
+      <Url>vsrip_1007.7z</Url>
+      <UploadDate>2016-12-01T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>vsrip</Name>
+    <DisplayName>VobSub Ripper</DisplayName>
+    <RequiredBuild>0</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>2901</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>x264-2901-64.7z</Url>
+      <UploadDate>2018-02-17T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>64</Architecture>
+      <FileVersion>2969</FileVersion>
+      <OSBuild>64</OSBuild>
+      <Url>x264-2969-64.7z</Url>
+      <UploadDate>2019-03-15T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>false</AllowUpdate>
+    <Name>x264</Name>
+    <DisplayName>x264</DisplayName>
+    <RequiredBuild>2856</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>3.0+4 (LigH)</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>x265-3.0+4-32.7z</Url>
+      <UploadDate>2019-02-16T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>x265</Name>
+    <DisplayName>x265</DisplayName>
+    <RequiredBuild>2685</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+  <iUpgradeable xsi:type="ProgramFile">
+    <DownloadChecked>false</DownloadChecked>
+    <CurrentVersion>
+      <Architecture />
+      <FileVersion />
+      <OSBuild />
+      <Url />
+      <UploadDate>0001-01-01T00:00:00</UploadDate>
+      <Web />
+    </CurrentVersion>
+    <AvailableVersion>
+      <Architecture>32</Architecture>
+      <FileVersion>1.3.5</FileVersion>
+      <OSBuild>32</OSBuild>
+      <Url>xvid-1.3.5-32.7z</Url>
+      <UploadDate>2017-12-17T00:00:00</UploadDate>
+      <Web />
+    </AvailableVersion>
+    <AllowUpdate>true</AllowUpdate>
+    <Name>xvid_encraw</Name>
+    <DisplayName>Xvid</DisplayName>
+    <RequiredBuild>2624</RequiredBuild>
+    <RequiredNET />
+    <NeedsRestartedCopying>false</NeedsRestartedCopying>
+  </iUpgradeable>
+</ArrayOfIUpgradeable>

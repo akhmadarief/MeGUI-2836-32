@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<GenericProfileOfQaacSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>q118</Name>
+  <Settings>
+    <PreferredDecoderString>LWLibavAudioSource</PreferredDecoderString>
+    <DownmixMode>KeepOriginal</DownmixMode>
+    <BitrateMode>VBR</BitrateMode>
+    <Bitrate>0</Bitrate>
+    <AutoGain>false</AutoGain>
+    <SampleRateType>deprecated</SampleRateType>
+    <SampleRate>KeepOriginal</SampleRate>
+    <TimeModification>KeepOriginal</TimeModification>
+    <ApplyDRC>false</ApplyDRC>
+    <Normalize>100</Normalize>
+    <CustomEncoderOptions />
+    <Profile>LC</Profile>
+    <Mode>TVBR</Mode>
+    <Quality>118</Quality>
+    <NoDelay>true</NoDelay>
+  </Settings>
+</GenericProfileOfQaacSettings>

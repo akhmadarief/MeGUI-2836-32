@@ -1,0 +1,16 @@
+eac3to v3.34
+command line: "C:\Users\Hitori\Downloads\MeGUI-2836-32\tools\eac3to\eac3to.exe" "C:\Users\Hitori\Downloads\[BDMV][190731][Kimetsu no Yaiba][Vol.1]\BDMV\STREAM\00004.m2ts" 2:"C:\Users\Hitori\Downloads\[BDMV][190731][Kimetsu no Yaiba][Vol.1]\BDMV\STREAM\[BDMV][190731][Kimetsu no Yaiba][Vol.1]_T2_Audio - Japanese.w64" -progressnumbers
+------------------------------------------------------------------------------
+M2TS, 1 video track, 2 audio tracks, 0:23:41, 24p /1.001
+1: h264/AVC, 1080p24 /1.001 (16:9)
+2: RAW/PCM, Japanese, 2.0 channels, 24 bits, 48kHz
+3: RAW/PCM, Japanese, 2.0 channels, 24 bits, 48kHz
+[a02] Extracting audio track number 2...
+[a02] Reading RAW/PCM...
+[a02] Swapping endian...
+[a02] Writing W64...
+[a02] Creating file "C:\Users\Hitori\Downloads\[BDMV][190731][Kimetsu no Yaiba][Vol.1]\BDMV\STREAM\[BDMV][190731][Kimetsu no Yaiba][Vol.1]_T2_Audio - Japanese.w64"...
+[a02] The original audio track has a constant bit depth of 24 bits.
+Video track 1 contains 34072 frames.
+eac3to processing took 57 seconds.
+Done.

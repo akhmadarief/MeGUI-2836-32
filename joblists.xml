@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<JobListSerializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mainJobList />
+  <workersAndTheirJobLists>
+    <PairOfStringListOfString>
+      <fst>Worker 1</fst>
+      <snd />
+    </PairOfStringListOfString>
+  </workersAndTheirJobLists>
+</JobListSerializer>
